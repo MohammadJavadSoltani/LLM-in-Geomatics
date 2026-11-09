@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.5,
+          35.75
+        ]
+      },
+      "properties": {
+        "id": "Record_01",
+        "major": "RS",
+        "date_iso": "2025-07-14",
+        "cloud_pct": 12.4,
+        "primary_metric": 0.642,
+        "qa_valid": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.4,
+          35.7
+        ]
+      },
+      "properties": {
+        "id": "Record_02",
+        "major": "RS",
+        "date_iso": "2025-07-15",
+        "cloud_pct": 85.0,
+        "primary_metric": null,
+        "qa_valid": false
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.425,
+          35.8125
+        ]
+      },
+      "properties": {
+        "id": "Record_03",
+        "major": "PHOTO",
+        "date_iso": "2025-07-16",
+        "cloud_pct": null,
+        "primary_metric": 18.6,
+        "qa_valid": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35,
+          35.7
+        ]
+      },
+      "properties": {
+        "id": "Record_04",
+        "major": "GEODESY",
+        "date_iso": "2025-07-16",
+        "cloud_pct": null,
+        "primary_metric": 1420.55,
+        "qa_valid": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.35,
+          35.65
+        ]
+      },
+      "properties": {
+        "id": "Record_05",
+        "major": "GIS",
+        "date_iso": "2025-07-17",
+        "cloud_pct": 0.0,
+        "primary_metric": 7.42,
+        "qa_valid": true
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          51.55,
+          35.85
+        ]
+      },
+      "properties": {
+        "id": "Record_06",
+        "major": "RS",
+        "date_iso": "2025-07-18",
+        "cloud_pct": null,
+        "primary_metric": 0.21,
+        "qa_valid": false
+      }
+    }
+  ]
+}
